@@ -42,4 +42,4 @@ I take long time to center the card so I wnat to focus one positions of the elem
 
 ## Acknowledgments
 
-I learned form elzero web shcool and I stil learn so speical thanks to Mr.Osama [Her website](https://elzero.org/)
+I learned form elzero web shcool and I still learn so speical thanks to Mr.Osama [Her website](https://elzero.org/)
